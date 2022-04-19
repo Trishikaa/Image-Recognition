@@ -1,0 +1,22 @@
+body
+{
+    color: black;
+    background: #9543de;
+    font-family: comic sans ms;
+}
+.heading
+{
+    width: 80%;
+    font-size: 22px;
+    font-family: comic sans ms;
+}
+#camera
+{
+    border: 2px inside black;
+    width:350px;
+    height: 300px;
+}
+.name_of_objects, #result_object_name, #result_object_accuracy
+{
+    color: white;
+}
